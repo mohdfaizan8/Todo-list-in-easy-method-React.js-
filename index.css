@@ -1,0 +1,24 @@
+.input{
+    width: 450px;
+    height: 110px;
+}
+
+.inner{
+  position: absolute;
+  top: 40px;
+  padding: 20px;
+  margin-left: 380px;
+  border: 2px solid skyblue;
+  background-color: skyblue;
+}
+
+.sub{
+    background-color: green;
+    color: wheat;
+    width: 100px;
+    cursor: pointer;
+
+}
+body{
+    background-color: grey;
+}
